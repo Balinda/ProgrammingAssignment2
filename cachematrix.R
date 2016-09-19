@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Week 3 of R Programming.
+## These functions....
+## 
 
 ## Write a short comment describing this function
 
